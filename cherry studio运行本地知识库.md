@@ -64,4 +64,4 @@ ollama serve
 
 
 
-![image-20251014105959837](images\image-20251014105959837.png)
+![image-20251014105959837](images/image-20251014105959837.png)
