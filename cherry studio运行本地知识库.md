@@ -21,15 +21,19 @@ ollama serve
 
 右上角设置图标（windows）配置ollama和硅基流动
 
-![image-20251014104313390](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014104313390.png)
+
+
+![image-20251014104313390](.\images\image-20251014104313390.png)
 
 [硅基流动](https://cloud.siliconflow.cn/)注册登录后可获取API key
 
 选择不同类型，复制名字。
 
-![image-20251014104354363](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014104354363.png)
 
-![image-20251014104446381](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014104446381.png)
+
+![image-20251014104354363](.\images\image-20251014104354363.png)
+
+![image-20251014104446381](.\images\image-20251014104446381.png)
 
 ## 创建知识库
 
@@ -37,11 +41,13 @@ ollama serve
 
 添加文档：将材料拖进去即可
 
-![image-20251014104830222](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014104830222.png)
+![image-20251014104830222](.\images\image-20251014104830222.png)
 
-![image-20251014105132066](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014105132066.png)
+![image-20251014105132066](.\images\image-20251014105132066.png)
 
-![image-20251014104930459](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014104930459.png)
+![image-20251014104930459](.\images\image-20251014104930459.png)
+
+
 
 
 
@@ -58,4 +64,4 @@ ollama serve
 
 
 
-![image-20251014105959837](C:\Users\lydexiaoxin\AppData\Roaming\Typora\typora-user-images\image-20251014105959837.png)
+![image-20251014105959837](.\images\image-20251014105959837.png)
